@@ -1,6 +1,4 @@
-<a href="https://noticiasbr.netlify.app/" align="center">
-   Deploy do Site
-</a>
+
 
 
 <p align="center">
@@ -17,3 +15,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **HTML5**
 - **CSS3**
+- **GRID LAYOUT**
+
+
+<a href="https://noticiasbr.netlify.app/" text-align="center">
+   Deploy do Site
+</a>
