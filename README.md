@@ -4,5 +4,5 @@
 
 
 <p align="center">
-   <img src="./img/screenshot_noticias.br.jpg" width=""/>
+   <img src="img/screenshot_noticias.br.jpg" width=""/>
 </p>
