@@ -6,7 +6,7 @@
 </p>
 ## Sobre
 
-**Noticias.br** foi um projeto criado na intenção de fomentar noticas atualizadas de tecnologia.
+**Noticias.br** foi um projeto criado na intenção de aplicar meus conhecimentos de GRID Layout.
 
 
 ## Ferramentas
@@ -17,7 +17,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **CSS3**
 - **GRID LAYOUT**
 
-
-<a href="https://noticiasbr.netlify.app/" text-align="center">
+<h1 align="center">
+<a href="https://noticiasbr.netlify.app/" >
    Deploy do Site
 </a>
+</h1>
