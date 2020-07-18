@@ -18,7 +18,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **GRID LAYOUT**
 
 <h1 align="center">
-<a href="https://noticiasbr.netlify.app/" >
+<a href="https://noticiasbr.netlify.app/" target="_blank">
    Deploy do Site
 </a>
 </h1>
